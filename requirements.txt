@@ -1,0 +1,10 @@
+streamlit==1.37.0
+requests==2.32.0
+Pillow==9.5.0
+
+
+
+
+
+langchain-community~=0.3.7
+langchain~=0.3.7
